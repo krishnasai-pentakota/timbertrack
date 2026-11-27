@@ -1,0 +1,6 @@
+__pycache__/
+tests/vendor/
+tests/e2e/shots_*/
+demo/out/
+demo/shots/
+demo/sample_data.json
